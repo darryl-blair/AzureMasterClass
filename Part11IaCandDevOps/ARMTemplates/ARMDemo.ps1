@@ -1,7 +1,7 @@
 #Note deploying to an RG. To deploy to a subscription and create RGs and multiple RGs use New-AzDeployment
 #https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy
 
-$GitBasePath = 'C:\AzureMasterClass\Part11IaCandDevOps\ARMTemplates'
+$GitBasePath = 'C:\Users\Darryl\OneDrive\Documents\GitHub\AzureMasterClass\Part11IaCandDevOps\ARMTemplates'
 
 #Deploy simple template creating a storage account
 #Can always use whatif to see what would change comparing to reality
