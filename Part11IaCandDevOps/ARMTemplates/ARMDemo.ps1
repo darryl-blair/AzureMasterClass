@@ -49,3 +49,5 @@ New-AzResourceGroupDeployment -ResourceGroupName RG-00742 `
 New-AzResourceGroupDeployment -ResourceGroupName RG-00742 `
     -TemplateFile "$GitBasePath\\SimpleWindowsVM.json" `
     -TemplateParameterFile "$GitBasePath\\SimpleWindowsVM.parameters.json"
+
+#Comment by Darryl
